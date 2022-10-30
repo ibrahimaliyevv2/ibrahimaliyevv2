@@ -2,7 +2,16 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Aliyev</h1>
 <p align="left"> <a href="https://twitter.com/ibrahimaliyevv2" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahimaliyevv2?logo=twitter&style=for-the-badge" alt="ibrahimaliyevv2" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761130e526909d80c86f53abafdbd297deb5f0424424&rid=giphy.gif&ct=g">
+
 - 🌱 I’m currently learning Data Science & AI fundamentals
+
+- 👨‍🎓 Bachelor degree in Computer Science at Baku State University
+
+- 📔 Master degree in Data Science & AI at Straousburg University
+
+- 👨🏻‍💻 Fullstack Development student at Code Academy
+
+- 📫 You can reach me via ibrahimaliyevv2@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
