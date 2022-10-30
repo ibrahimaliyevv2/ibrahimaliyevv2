@@ -4,10 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761130e526909d80c86f53abafdbd297deb5f0424424&rid=giphy.gif&ct=g">
 - 🌱 I’m currently learning Data Science & AI fundamentals
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ibrahimaliyevv2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ibrahimaliyevv2" height="30" width="40" /></a>
