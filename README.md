@@ -1,11 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Aliyev</h1>
-<p align="left">
-  <a href="https://twitter.com/ibrahimaliyevv2" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/ibrahimaliyevv2?logo=twitter&style=for-the-badge"
-      alt="ibrahimaliyevv2"
-  /></a>
-</p>
 <img
   align="right"
   alt="Coding"
