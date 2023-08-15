@@ -10,7 +10,7 @@
 - 📔 Master degree in Computer Science at Straousburg University 
 - 👨🏻‍💻 Fullstack Development student at Code Academy 
 - 📫 You can reach me via ibrahimaliyevv2@gmail.com
-
+- 
 <h3 align="left">Connect with me:</h3>
   <a href="https://twitter.com/ibrahimaliyevv2" target="blank"
     ><img
