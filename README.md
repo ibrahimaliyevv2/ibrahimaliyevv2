@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Aliyev</h1>
 - 👨‍🎓 Bachelor degree in Computer Science at Baku State University 
-- 📔 Master degree in Computer Science at Straousburg University 
-- 👨🏻‍💻 Fullstack Development student at Code Academy 
 - 📫 You can reach me via ibrahimaliyevv2@gmail.com
 - 
 <h3 align="left">Connect with me:</h3>
