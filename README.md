@@ -3,10 +3,7 @@
 - 👨‍🎓 Bachelor’s Degree in Computer Science (Baku State University)  
 - 👨‍💻 Frontend Developer focused on building clean, scalable, and user-friendly web applications  
 - 📫 Reach me at **ibrahimaliyevv2@gmail.com**
-
----
-
-### 🌐 Connect with me via LinkedIn:[ibrahimaliyevv2](https://linkedin.com/in/ibrahimaliyevv2)
+- 🌐 Connect with me via LinkedIn: [ibrahimaliyevv2](https://linkedin.com/in/ibrahimaliyevv2)
 
 ---
 
