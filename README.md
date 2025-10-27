@@ -24,13 +24,3 @@
 ### 🛠️ Tech Stack
 **Frontend:** React · TypeScript · Next.js · Redux Toolkit · Tailwind CSS · JavaScript (ES6+)  
 **Tools:** Git
-
----
-
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimaliyevv2&show_icons=true&count_private=true&hide_title=true" alt="github stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimaliyevv2&layout=compact" alt="top langs" />
-</p>
