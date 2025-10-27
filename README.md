@@ -8,5 +8,5 @@
 ---
 
 ### 🛠️ Tech Stack
-**Frontend:** React · TypeScript · Next.js · Redux Toolkit · Tailwind CSS · JavaScript (ES6+)  
-**Tools:** Git
+**Frontend:** React · TypeScript · Next.js · Redux Toolkit · Tailwind CSS · JavaScript (ES6+) · Shadcn-UI · React Query
+**Backend:** Node.js · Express · MongoDB · Mongoose
